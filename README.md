@@ -1,4 +1,4 @@
-<img alt="controle" title="#pme3481-2024" src="./pme3481" />
+<img alt="controle" title="#pme3481-2024" src="./pme3481.png" />
 
 Este repositório contém todos os códigos e softwares de labs e aulas para o curso de Controle e Aplicações da Poli USP! Todos os slides e aulas estão disponíveis aqui e no site da disciplina, bem como a organização do grupo.
 
